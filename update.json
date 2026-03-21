@@ -1,0 +1,14 @@
+{
+  "latest_version_code": 1,
+  "latest_version_name": "1.0",
+  "minimum_supported_code": 1,
+  "force_update": false,
+  "update_url": "https://github.com/Gabutbolo/CineFlow/releases/latest",
+  "title": "Versi baru CineFlow sudah siap",
+  "message": "Naikkan latest_version_code saat rilis baru agar prompt update muncul dari LaunchActivity.",
+  "changelog": [
+    "Edit file update.json ini setiap kali ada rilis baru.",
+    "Push ke branch main agar raw GitHub ikut terbarui.",
+    "Gunakan minimum_supported_code untuk force update bila diperlukan."
+  ]
+}
