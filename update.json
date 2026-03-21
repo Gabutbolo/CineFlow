@@ -1,14 +1,14 @@
 {
-  "latest_version_code": 1,
-  "latest_version_name": "1.0",
+  "latest_version_code": 2,
+  "latest_version_name": "1.1",
   "minimum_supported_code": 1,
   "force_update": false,
-  "update_url": "https://github.com/Gabutbolo/CineFlow/releases/latest",
-  "title": "Versi baru CineFlow sudah siap",
-  "message": "Naikkan latest_version_code saat rilis baru agar prompt update muncul dari LaunchActivity.",
+  "update_url": "https://github.com/Gabutbolo/CineFlow/releases/download/v1.1/CineFlow-v1.1-release.apk",
+  "title": "Versi baru CineFlow 1.1 sudah siap",
+  "message": "Ada pembaruan baru dengan perbaikan splash, onboarding Android TV, dan stabilitas pemutaran yang lebih baik.",
   "changelog": [
-    "Edit file update.json ini setiap kali ada rilis baru.",
-    "Push ke branch main agar raw GitHub ikut terbarui.",
-    "Gunakan minimum_supported_code untuk force update bila diperlukan."
+    "Splash bootstrap lebih cepat saat pertama masuk.",
+    "Dialog onboarding Android TV lebih rapi dan fokus DPAD lebih stabil.",
+    "Perbaikan kecil di alur donasi dan notifikasi."
   ]
 }
