@@ -3,7 +3,7 @@
   "latest_version_name": "0.2",
   "minimum_supported_code": 1,
   "force_update": false,
-  "update_url": "https://github.com/Gabutbolo/CineFlow/releases/download/v0.2/CineFlow-v0.2-release.apk",
+  "update_url": "https://github.com/Gabutbolo/CineFlow/releases/download/0.2/CineFlow-v0.2-release.apk",
   "title": "CineFlow 0.2 sudah siap diunduh",
   "message": "Pembaruan ini membawa perbaikan alur update, penyempurnaan Android TV, dan stabilitas startup yang lebih baik.",
   "changelog": [
