@@ -1,14 +1,14 @@
 {
-  "latest_version_code": 2,
-  "latest_version_name": "0.2",
+  "latest_version_code": 3,
+  "latest_version_name": "0.2.1",
   "minimum_supported_code": 1,
   "force_update": false,
-  "update_url": "https://github.com/Gabutbolo/CineFlow/releases/download/0.2/CineFlow-v0.2-release.apk",
-  "title": "CineFlow 0.2 sudah siap diunduh",
-  "message": "Pembaruan ini membawa perbaikan alur update, penyempurnaan Android TV, dan stabilitas startup yang lebih baik.",
+  "update_url": "https://github.com/Gabutbolo/CineFlow/releases/download/0.2.1/CineFlow-v0.2.1-release.apk",
+  "title": "CineFlow 0.2.1 sudah siap diunduh",
+  "message": "Update 0.2.1 menghadirkan dukungan label episode PV/Trailer untuk kenyamanan menonton kamu.",
   "changelog": [
-    "Periksa Pembaruan sekarang tersedia dari halaman Akun.",
-    "Flow update dari splash lebih rapi saat unduhan selesai dan siap dipasang.",
-    "Perbaikan fokus Android TV, onboarding source, dan reselect Home untuk refresh."
+    "Dukungan label untuk episode PV (Trailer).",
+    "Penyajian judul di dalam player lebih informatif untuk episode spesial.",
+    "Perbaikan data parsing saat menemui label non-integer."
   ]
 }
