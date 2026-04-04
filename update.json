@@ -4,8 +4,8 @@
     "minimum_supported_code": 2,
     "force_update": false,
     "update_url": "https://github.com/Gabutbolo/CineFlow/releases/download/0.2.3/CineFlow-v0.2.3-release.apk",
-    "title": "Update CineFlow 0.2.3",
-    "message": "Versi baru CineFlow sudah tersedia.",
+    "title": "Update CineFlow pre-realese 0.2.3",
+    "message": "Versi baru CineFlow sudah tersedia. Jangan Lupa Donasi biar semangat Update",
     "changelog": [
         "Redesign UI/UX untuk tampilan yang lebih modern dan intuitif.",
         "Optimasi tampilan di perangkat Mobile dan TV.",
