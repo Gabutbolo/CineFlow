@@ -1,14 +1,20 @@
 {
-  "latest_version_code": 3,
-  "latest_version_name": "0.2.1",
-  "minimum_supported_code": 2,
-  "force_update": false,
-  "update_url": "https://github.com/Gabutbolo/CineFlow/releases/download/0.2.1/CineFlow-v0.2.1-release.apk",
-  "title": "CineFlow 0.2.1 sudah siap diunduh",
-  "message": "Update 0.2.1 menghadirkan dukungan label episode PV/Trailer untuk kenyamanan menonton kamu.",
-  "changelog": [
-    "Dukungan label untuk episode PV (Trailer).",
-    "Penyajian judul di dalam player lebih informatif untuk episode spesial.",
-    "Perbaikan data parsing saat menemui label non-integer."
-  ]
+    "latest_version_code": 5,
+    "latest_version_name": "0.2.3",
+    "minimum_supported_code": 2,
+    "force_update": false,
+    "update_url": "https://github.com/Gabutbolo/CineFlow/releases/download/0.2.3/CineFlow-v0.2.3-release.apk",
+    "title": "Update CineFlow 0.2.3",
+    "message": "Versi baru CineFlow sudah tersedia.",
+    "changelog": [
+        "Redesign UI/UX untuk tampilan yang lebih modern dan intuitif.",
+        "Optimasi tampilan di perangkat Mobile dan TV.",
+        "Perbaikan tata letak kontrol Video Player di Mobile dan TV.",
+        "Perbaikan tampilan poster yang masuk ke Video Player.",
+        "Dukungan fitur FAVORIT untuk menyimpan konten kesayangan.",
+        "Dukungan gesture swipe pada Video Player di perangkat Mobile.",
+        "Perbaikan dan peningkatan feedback aplikasi secara keseluruhan.",
+        "perbaikan bug pada subtitle yang tidak muncul di beberapa perangkat.",
+        "Perbaikan bug dan peningkatan performa aplikasi."
+    ]
 }
