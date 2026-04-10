@@ -1,20 +1,15 @@
 {
-    "latest_version_code": 5,
+    "latest_version_code": 6,
     "latest_version_name": "0.2.3",
-    "minimum_supported_code": 2,
+    "minimum_supported_code": 6,
     "force_update": false,
-    "update_url": "https://github.com/Gabutbolo/CineFlow/releases/download/0.2.3/CineFlow-v0.2.3-release.apk",
-    "title": "Update CineFlow pre-realese 0.2.3",
-    "message": "Versi baru CineFlow sudah tersedia. Jangan Lupa Donasi biar semangat Update",
+    "update_url": "https://cineflow.my.id/update/CineFlow-v0.2.3-release.apk",
+    "package_name": "com.cineflow.app",
+    "apk_sha256": "9C16E6B81046C6FE627BFF1785C9BF991F1EA80158DF43E590834271B7A7A0EB",
+    "signer_sha256": "7A5435B95AD63FE27B2D3428B6DCEF92B49F72BB269E42B1CEDE505C6EC74A1B",
+    "title": "CineFlow 0.2.3 sudah siap diunduh",
+    "message": "Update CineFlow 0.2.3 siap untuk diunduh dan dipasang.",
     "changelog": [
-        "Redesign UI/UX untuk tampilan yang lebih modern dan intuitif.",
-        "Optimasi tampilan di perangkat Mobile dan TV.",
-        "Perbaikan tata letak kontrol Video Player di Mobile dan TV.",
-        "Perbaikan tampilan poster yang masuk ke Video Player.",
-        "Dukungan fitur FAVORIT untuk menyimpan konten kesayangan.",
-        "Dukungan gesture swipe pada Video Player di perangkat Mobile.",
-        "Perbaikan dan peningkatan feedback aplikasi secara keseluruhan.",
-        "perbaikan bug pada subtitle yang tidak muncul di beberapa perangkat.",
         "Perbaikan bug dan peningkatan performa aplikasi."
     ]
 }
